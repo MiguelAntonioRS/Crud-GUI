@@ -36,8 +36,8 @@ Ejecuta la aplicación:
 ```
 Uso
 
-    Al abrir la aplicación, verás una interfaz con campos para introducir los datos de la entidad y una tabla para mostrar las entidades existentes.
-    Puedes agregar una nueva entidad introduciendo los datos en los campos y haciendo clic en el botón "Agregar".
-    Para eliminar una entidad, selecciona una fila en la tabla y haz clic en el botón "Eliminar".
-    Para modificar una entidad, selecciona una fila en la tabla, modifica los campos de entrada y haz clic en el botón "Modificar".
-    Puedes marcar o desmarcar una entidad seleccionando una fila en la tabla y haciendo clic en el botón "Marcar/Desmarcar".
+   Al abrir la aplicación, verás una interfaz con campos para introducir los datos de la entidad y una tabla para mostrar las entidades existentes.
+   Puedes agregar una nueva entidad introduciendo los datos en los campos y haciendo clic en el botón "Agregar".
+   Para eliminar una entidad, selecciona una fila en la tabla y haz clic en el botón "Eliminar".
+   Para modificar una entidad, selecciona una fila en la tabla, modifica los campos de entrada y haz clic en el botón "Modificar". 
+   Puedes marcar o desmarcar una entidad seleccionando una fila en la tabla y haciendo clic en el botón "Marcar/Desmarcar".

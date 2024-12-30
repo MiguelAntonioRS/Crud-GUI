@@ -6,7 +6,7 @@ Este proyecto es una aplicación de interfaz gráfica de usuario (GUI) implement
 
 - JDK (Java Development Kit) instalado en tu sistema.
 
-## Ejecución
+## Ejecución 
 
 Para ejecutar la aplicación, sigue estos pasos:
 

@@ -3,7 +3,7 @@
 Este proyecto es una aplicación de interfaz gráfica de usuario (GUI) implementada en Java Swing para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en entidades.
 
 ## Requisitos  
-
+ 
 - JDK (Java Development Kit) instalado en tu sistema. 
  
 ## Ejecución 

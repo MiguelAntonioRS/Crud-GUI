@@ -4,7 +4,7 @@ Este proyecto es una aplicación de interfaz gráfica de usuario (GUI) implement
 
 ## Requisitos 
 
-- JDK (Java Development Kit) instalado en tu sistema. 
+- JDK (Java Development Kit) instalado en tu sistema.
  
 ## Ejecución 
 

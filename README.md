@@ -16,7 +16,7 @@ Para ejecutar la aplicación, sigue estos pasos:
    git clone https://github.com/MiguelAntonioRS/Crud-GUI
 
 3. Navega al directorio del proyecto:
- 
+
 
 ```
 cd Crud-GUI

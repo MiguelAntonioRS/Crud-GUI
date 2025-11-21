@@ -9,7 +9,7 @@ Este proyecto es una aplicación de interfaz gráfica de usuario (GUI) implement
 ## Ejecución 
 
 Para ejecutar la aplicación, sigue estos pasos:
- 
+
 1. Abre una terminal o línea de comandos.
 2. Clona el repositorio utilizando el siguiente comando:
    ```bash

@@ -13,7 +13,7 @@ Para ejecutar la aplicación, sigue estos pasos:
 1. Abre una terminal o línea de comandos.
 2. Clona el repositorio utilizando el siguiente comando:
    ```bash
-   git clone https://github.com/MiguelAntonioRS/Crud-GUI
+   git clone https://github.com/MiguelAntonioRS/Crud-GUI 
 
 3. Navega al directorio del proyecto:
 

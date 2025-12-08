@@ -17,7 +17,6 @@ Para ejecutar la aplicación, sigue estos pasos:
 
 3. Navega al directorio del proyecto:
 
-
 ```
 cd Crud-GUI
 cd src

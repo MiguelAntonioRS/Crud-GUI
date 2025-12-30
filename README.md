@@ -1,42 +1,39 @@
-# CRUD GUI en Java Swing
+# CRUD GUI in Java Swing
 
-Este proyecto es una aplicación de interfaz gráfica de usuario (GUI) implementada en Java Swing para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en entidades.
+This project is a graphical user interface (GUI) application implemented in Java Swing to perform CRUD (Create, Read, Update, Delete) operations on entities.
 
-## Requisitos
+## Requirements
 
-- JDK (Java Development Kit) instalado en tu sistema.
+- JDK (Java Development Kit) installed on your system.
 
-## Ejecución
+## Execution
 
-Para ejecutar la aplicación, sigue estos pasos:
+To run the application, follow these steps:
 
-1. Abre una terminal o línea de comandos.
-2. Clona el repositorio utilizando el siguiente comando:
+1. Open a terminal or command prompt.
+   
+2. Clone the repository using the following command:
+   
    ```bash
    git clone https://github.com/MiguelAntonioRS/Crud-GUI
+3. Navigate to the project directory:
+   ```bash
+   cd Crud-GUI
+   cd src
+   cd crudgui
 
-3. Navega al directorio del proyecto:
+4. Compile the Java files:
+   ```bash
+   javac CrudGUI.java
 
-```
-cd Crud-GUI
-cd src
-cd crudgui
-```
+5. Run the application:
+   ```bash
+   java CrudGUI
+
+## Usage
    
- Compila los archivos Java:
-
-```
-javac CrudGUI.java
-```
-Ejecuta la aplicación:
-
-```
-    java CrudGUI
-```
-Uso
-
-   Al abrir la aplicación, verás una interfaz con campos para introducir los datos de la entidad y una tabla para mostrar las entidades existentes.
-   Puedes agregar una nueva entidad introduciendo los datos en los campos y haciendo clic en el botón "Agregar".
-   Para eliminar una entidad, selecciona una fila en la tabla y haz clic en el botón "Eliminar".
-   Para modificar una entidad, selecciona una fila en la tabla, modifica los campos de entrada y haz clic en el botón "Modificar". 
-   Puedes marcar o desmarcar una entidad seleccionando una fila en la tabla y haciendo clic en el botón "Marcar/Desmarcar".
+   When you open the application, you will see an interface with fields to enter entity data and a table displaying existing entities.
+   You can add a new entity by entering data into the fields and clicking the "Agregar" (Add) button.
+   To delete an entity, select a row in the table and click the "Eliminar" (Delete) button.
+   To modify an entity, select a row in the table, edit the input fields, and click the "Modificar" (Modify) button.
+   You can mark or unmark an entity by selecting a row in the table and clicking the "Marcar/Desmarcar" (Mark/Unmark) button.

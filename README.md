@@ -11,7 +11,7 @@ This project is a graphical user interface (GUI) application implemented in Java
 To run the application, follow these steps:
 
 1. Open a terminal or command prompt.
-   
+
 2. Clone the repository using the following command:
    
    ```bash
